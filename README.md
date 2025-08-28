@@ -30,21 +30,20 @@ I'm a developer with 3 years of experience, certified in cloud solutions with AW
 <img width="96" height="96" alt="aws-certified-developer-associate" src="https://github.com/user-attachments/assets/d55f9eb4-e18d-49f3-b49c-570a6070bf9a" />
 </a>
 
-[<img height="48px" width="48px" alt="Icone AWS" src="https://skillicons.dev/icons?i=aws"/>]
-[<img height="48px" width="48px" alt="Icone DJANGO" src="https://skillicons.dev/icons?i=django"/>]
-[<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>]
-[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>]
-[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>]
-[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>]
-[<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>]
-[<img height="48px" width="48px" alt="Icone MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>]
-[<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>]
-[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>]
-[<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>]
-  
-  
-  
-  
+
+## Minhas habilidades
+
+<img height="48px" width="48px" alt="Icone AWS" src="https://skillicons.dev/icons?i=aws"/>
+<img height="48px" width="48px" alt="Icone DJANGO" src="https://skillicons.dev/icons?i=django"/>
+<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>
+<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>
+<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>
+<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>
+<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>
+<img height="48px" width="48px" alt="Icone MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>
+<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>
+<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>
+<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>   
   
   
   
