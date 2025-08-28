@@ -29,6 +29,8 @@ I'm a developer with 3 years of experience, certified in cloud solutions with AW
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="09db634d-b3f2-4cff-a4c3-f114c601a78c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </a>
 
+<br/>
+<br/>
 [<img height="48px" width="48px" alt="Icone AWS" src="https://skillicons.dev/icons?i=aws"/>](https://aws.amazon.com)
 [<img height="48px" width="48px" alt="Icone DJANGO" src="https://skillicons.dev/icons?i=django"/>](https://aws.amazon.com)
 [<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>](https://aws.amazon.com)
