@@ -23,23 +23,24 @@ I'm a developer with 3 years of experience, certified in cloud solutions with AW
 
 ## Certificações
 <a href="https://www.credly.com/badges/09db634d-b3f2-4cff-a4c3-f114c601a78c/public_url" target="_blank">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="857ed596-6ca2-4cdb-a190-1600ef2a2973" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> </a>
-
-<a href="https://www.credly.com/badges/09db634d-b3f2-4cff-a4c3-f114c601a78c/public_url" target="_blank">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="09db634d-b3f2-4cff-a4c3-f114c601a78c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img width="96" height="96" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/38245f14-a232-41f0-83ec-048cf5136b62" />
 </a>
 
-[<img height="48px" width="48px" alt="Icone AWS" src="https://skillicons.dev/icons?i=aws"/>](https://aws.amazon.com)
-[<img height="48px" width="48px" alt="Icone DJANGO" src="https://skillicons.dev/icons?i=django"/>](https://aws.amazon.com)
-[<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>](https://aws.amazon.com)
-[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
-[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://www.typescriptlang.org/pt/)
-[<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org)
-[<img height="48px" width="48px" alt="Icone MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com)
-[<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
-[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
-[<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
+<a href="https://www.credly.com/badges/09db634d-b3f2-4cff-a4c3-f114c601a78c/public_url" target="_blank">
+<img width="96" height="96" alt="aws-certified-developer-associate" src="https://github.com/user-attachments/assets/d55f9eb4-e18d-49f3-b49c-570a6070bf9a" />
+</a>
+
+[<img height="48px" width="48px" alt="Icone AWS" src="https://skillicons.dev/icons?i=aws"/>]
+[<img height="48px" width="48px" alt="Icone DJANGO" src="https://skillicons.dev/icons?i=django"/>]
+[<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>]
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>]
+[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>]
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>]
+[<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>]
+[<img height="48px" width="48px" alt="Icone MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>]
+[<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>]
+[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>]
+[<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>]
   
   
   
